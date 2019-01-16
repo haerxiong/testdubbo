@@ -1,0 +1,6 @@
+module说明：
+
+test-dubbo-base是本项目的parent，包含不同环境参数的配置
+test-user是一个dubbo的服务提供方
+test-api是一个dubbo的服务消费方
+testinterfaces是服务的接口申明
